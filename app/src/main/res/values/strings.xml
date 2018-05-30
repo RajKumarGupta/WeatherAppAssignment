@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Weather App Assignment</string>
+  <string name="currently">Today</string>
+  <string name="daily">Daily</string>
+</resources>
