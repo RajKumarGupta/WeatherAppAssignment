@@ -20,7 +20,6 @@ UI Design showcase
   <img src="https://github.com/RajKumarGupta/WeatherAppAssignment/blob/master/FirstScreen.png" width="250"/>
   <img src="https://github.com/RajKumarGupta/WeatherAppAssignment/blob/master/SecondScreen.png" width="250"/>
   <img src="https://github.com/RajKumarGupta/WeatherAppAssignment/blob/master/ThirdScreen.png" width="250"/>
-  <img src="https://github.com/RajKumarGupta/WeatherAppAssignment/blob/master/FourthScreen.png" width="250"/>
 </p>
 
 
