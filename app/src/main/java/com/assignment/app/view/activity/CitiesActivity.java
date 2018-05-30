@@ -51,7 +51,6 @@ public class CitiesActivity extends BaseActivity implements CityPresenter.View {
         initializePresenter();
         initializeAdapter();
         initializeRecyclerView();
-        presenter.initialize();
     }
 
     @Override
