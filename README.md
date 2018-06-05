@@ -13,6 +13,8 @@ Libraries I have used for the assignment
 * Mockito
 * Robolectric
 
+### [The Launcher Icon I have used from Iconfinder Website Click here](https://www.iconfinder.com/icons/406852/weather_icon)
+
 UI Design showcase
 ------------------
 
